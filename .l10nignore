@@ -1,0 +1,6 @@
+js/
+css/
+vendor/
+vendor-bin/
+node_modules/
+l10n/
