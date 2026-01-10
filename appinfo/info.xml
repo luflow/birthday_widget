@@ -34,14 +34,14 @@ The widget reads birthday data from the auto-generated contact_birthdays calenda
 - Einfache Konfiguration über die Admin-Einstellungen
 
 Das Widget liest Geburtstagsdaten aus dem automatisch generierten contact_birthdays-Kalender, den Nextcloud automatisch erstellt, wenn Kontakte Geburtstagsdaten haben.]]></description>
-	<screenshot>https://raw.githubusercontent.com/luflow/birthday-widget/refs/heads/main/appinfo/screens/screen.png</screenshot>
+	<screenshot>https://raw.githubusercontent.com/luflow/birthday_widget/refs/heads/main/appinfo/screens/screen.png</screenshot>
 	<version>1.0.0</version>
 	<licence>AGPL-3.0-or-later</licence>
 	<author mail="florian@krautnerds.de" homepage="https://krautnerds.de">Florian Ludwig</author>
 	<namespace>BirthdayWidget</namespace>
 	<category>dashboard</category>
-	<bugs>https://github.com/luflow/birthday-widget/issues</bugs>
-	<repository type="git">https://github.com/luflow/birthday-widget</repository>
+	<bugs>https://github.com/luflow/birthday_widget/issues</bugs>
+	<repository type="git">https://github.com/luflow/birthday_widget</repository>
 	<dependencies>
 		<php min-version="8.1"/>
 		<nextcloud min-version="31" max-version="32"/>
