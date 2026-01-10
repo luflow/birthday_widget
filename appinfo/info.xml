@@ -3,17 +3,37 @@
 	  xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
 	<id>birthday_widget</id>
 	<name>Birthday Widget</name>
+	<name lang="de">Geburtstags-Widget</name>
 	<summary>Dashboard widget showing upcoming and recent birthdays from your contacts</summary>
-	<description><![CDATA[A simple dashboard widget that displays birthdays from your Nextcloud contacts.
+	<summary lang="de">Dashboard-Widget mit bevorstehenden und vergangenen Geburtstagen aus deinen Kontakten</summary>
+	<description><![CDATA[A simple dashboard widget that displays birthdays from your Nextcloud contacts. Never miss a birthday again with this elegant widget that keeps you informed about your contacts' special days.
 
 **Features:**
 - Shows birthdays grouped by Today, Upcoming, and Recent
-- Displays age for each person
-- Configurable date range (days in past/future)
-- Highlights today's birthdays
+- Displays age for each person (when birth year is available)
+- Smart date formatting (Today, Tomorrow, Yesterday, weekday names)
+- Highlights today's birthdays with special styling
 - Automatically synced with your contacts' birthday calendar
 
+**For Administrators:**
+- Configurable date range for past and future birthdays
+- Easy configuration through admin settings panel
+
 The widget reads birthday data from the auto-generated contact_birthdays calendar, which Nextcloud creates automatically when contacts have birthday dates set.]]></description>
+	<description lang="de"><![CDATA[Ein einfaches Dashboard-Widget, das Geburtstage aus deinen Nextcloud-Kontakten anzeigt. Verpasse nie wieder einen Geburtstag mit diesem eleganten Widget, das dich über die besonderen Tage deiner Kontakte informiert.
+
+**Funktionen:**
+- Zeigt Geburtstage gruppiert nach Heute, Bevorstehend und Vergangen
+- Zeigt das Alter jeder Person an (wenn das Geburtsjahr verfügbar ist)
+- Intelligente Datumsformatierung (Heute, Morgen, Gestern, Wochentage)
+- Hebt heutige Geburtstage besonders hervor
+- Automatisch synchronisiert mit deinem Kontakt-Geburtstagskalender
+
+**Für Administratoren:**
+- Konfigurierbarer Zeitraum für vergangene und zukünftige Geburtstage
+- Einfache Konfiguration über die Admin-Einstellungen
+
+Das Widget liest Geburtstagsdaten aus dem automatisch generierten contact_birthdays-Kalender, den Nextcloud automatisch erstellt, wenn Kontakte Geburtstagsdaten haben.]]></description>
 	<version>1.0.0</version>
 	<licence>AGPL-3.0-or-later</licence>
 	<author mail="florian@krautnerds.de" homepage="https://krautnerds.de">Florian Ludwig</author>
