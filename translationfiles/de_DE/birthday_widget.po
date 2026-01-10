@@ -1,0 +1,80 @@
+# German (formal) translation for Birthday Widget app
+# Copyright (C) 2026 Nextcloud contributors
+# This file is distributed under the same license as the Nextcloud package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Birthday Widget\n"
+"Report-Msgid-Bugs-To: translations@nextcloud.com\n"
+"POT-Creation-Date: 2026-01-10 12:00+0000\n"
+"PO-Revision-Date: 2026-01-10 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: German <de_DE@li.org>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Birthdays"
+msgstr "Geburtstage"
+
+msgid "Birthday widget"
+msgstr "Geburtstags-Widget"
+
+msgid "No birthdays"
+msgstr "Keine Geburtstage"
+
+msgid "Add birthday dates to your contacts to see them here"
+msgstr "Fuegen Sie Geburtstage zu Ihren Kontakten hinzu, um sie hier zu sehen"
+
+msgid "Today"
+msgstr "Heute"
+
+msgid "Turns %n year old"
+msgid_plural "Turns %n years old"
+msgstr[0] "Wird %n Jahr alt"
+msgstr[1] "Wird %n Jahre alt"
+
+msgid "Upcoming"
+msgstr "Bevorstehend"
+
+msgid "turns %n year old"
+msgid_plural "turns %n years old"
+msgstr[0] "wird %n Jahr alt"
+msgstr[1] "wird %n Jahre alt"
+
+msgid "Recent"
+msgstr "Vergangen"
+
+msgid "turned %n year old"
+msgid_plural "turned %n years old"
+msgstr[0] "wurde %n Jahr alt"
+msgstr[1] "wurde %n Jahre alt"
+
+msgid "Tomorrow"
+msgstr "Morgen"
+
+msgid "Yesterday"
+msgstr "Gestern"
+
+msgid "Configure the date range for displaying birthdays in the dashboard widget."
+msgstr "Konfigurieren Sie den Zeitraum, in dem Geburtstage im Dashboard-Widget angezeigt werden."
+
+msgid "Days in the past"
+msgstr "Tage in der Vergangenheit"
+
+msgid "Show birthdays that occurred up to this many days ago"
+msgstr "Zeige Geburtstage, die bis zu dieser Anzahl Tage zurueckliegen"
+
+msgid "Days in the future"
+msgstr "Tage in der Zukunft"
+
+msgid "Show birthdays that will occur within this many days"
+msgstr "Zeige Geburtstage, die innerhalb dieser Anzahl Tage stattfinden"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"

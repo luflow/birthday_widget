@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>birthday_widget</id>
+	<name>Birthday Widget</name>
+	<summary>Dashboard widget showing upcoming and recent birthdays from your contacts</summary>
+	<description><![CDATA[A simple dashboard widget that displays birthdays from your Nextcloud contacts.
+
+**Features:**
+- Shows birthdays grouped by Today, Upcoming, and Recent
+- Displays age for each person
+- Configurable date range (days in past/future)
+- Highlights today's birthdays
+- Automatically synced with your contacts' birthday calendar
+
+The widget reads birthday data from the auto-generated contact_birthdays calendar, which Nextcloud creates automatically when contacts have birthday dates set.]]></description>
+	<version>1.0.0</version>
+	<licence>AGPL-3.0-or-later</licence>
+	<author mail="florian@krautnerds.de" homepage="https://krautnerds.de">Florian Ludwig</author>
+	<namespace>BirthdayWidget</namespace>
+	<category>dashboard</category>
+	<bugs>https://github.com/luflow/birthday-widget/issues</bugs>
+	<repository type="git">https://github.com/luflow/birthday-widget</repository>
+	<dependencies>
+		<php min-version="8.1"/>
+		<nextcloud min-version="31" max-version="32"/>
+	</dependencies>
+	<settings>
+		<admin>OCA\BirthdayWidget\Settings\AdminSettings</admin>
+		<admin-section>OCA\BirthdayWidget\Settings\AdminSection</admin-section>
+	</settings>
+</info>

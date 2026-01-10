@@ -1,0 +1,30 @@
+{
+	"name": "nextcloud/birthday-widget",
+	"description": "Dashboard widget showing upcoming and recent birthdays from contacts",
+	"license": "AGPL-3.0-or-later",
+	"authors": [
+		{
+			"name": "Florian Ludwig",
+			"email": "florian@krautnerds.de",
+			"homepage": "https://www.krautnerds.de"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"OCA\\BirthdayWidget\\": "lib/"
+		}
+	},
+	"require": {
+		"php": "^8.1"
+	},
+	"require-dev": {
+		"nextcloud/ocp": "dev-stable31"
+	},
+	"config": {
+		"optimize-autoloader": true,
+		"sort-packages": true,
+		"platform": {
+			"php": "8.1"
+		}
+	}
+}
