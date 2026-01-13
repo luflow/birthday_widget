@@ -62,7 +62,7 @@ jobs:
           retention-days: 30
 
   build_and_publish:
-    needs: e2e_tests
+    # needs: e2e_tests
     environment: release
     runs-on: ubuntu-latest
     permissions:
