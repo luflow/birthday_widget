@@ -1,0 +1,13 @@
+OC.L10N.register(
+    "birthday_widget",
+    {
+    "Enable" : "开启",
+    "Settings saved" : "已保存设置",
+    "Failed to save settings" : "无法保存设置",
+    "Save" : "保存",
+    "Today" : "今天",
+    "Tomorrow" : "明天",
+    "Yesterday" : "昨天",
+    "Recent" : "最近"
+},
+"nplurals=1; plural=0;");

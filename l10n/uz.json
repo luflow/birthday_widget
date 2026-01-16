@@ -1,0 +1,11 @@
+{ "translations": {
+    "Enable" : "Yoqish",
+    "Settings saved" : "Sozlamalar saqlandi",
+    "Failed to save settings" : "Sozlamalarni saqlab bo'lmadi",
+    "Save" : "Saqlash",
+    "Today" : "Bugun",
+    "Tomorrow" : "Ertaga",
+    "Yesterday" : "Kecha",
+    "Recent" : "Oxirgi damda"
+},"pluralForm" :"nplurals=1; plural=0;"
+}

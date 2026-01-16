@@ -1,0 +1,10 @@
+{ "translations": {
+    "Enable" : "Inschakelen",
+    "Settings saved" : "Instellingen opgeslagen",
+    "Failed to save settings" : "Instellingen konden niet worden opgeslagen",
+    "Save" : "Opslaan",
+    "Today" : "Vandaag",
+    "Tomorrow" : "Morgen",
+    "Recent" : "Recent"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

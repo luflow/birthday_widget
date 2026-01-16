@@ -1,0 +1,7 @@
+{ "translations": {
+    "Enable" : "இயலுமைப்படுத்துக",
+    "Save" : "சேமிக்க ",
+    "Today" : "இன்று",
+    "Yesterday" : "நேற்று"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

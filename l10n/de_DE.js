@@ -1,32 +1,7 @@
 OC.L10N.register(
     "birthday_widget",
     {
-    "Birthdays" : "Geburtstage",
-    "Birthday widget" : "Geburtstags-Widget",
-    "No birthdays" : "Keine Geburtstage",
-    "Add birthday dates to your contacts to see them here" : "Fuegen Sie Geburtstage zu Ihren Kontakten hinzu, um sie hier zu sehen",
-    "Today" : "Heute",
-    "Turns %n year old" : "Wird %n Jahr alt",
-    "Turns %n years old" : "Wird %n Jahre alt",
-    "Upcoming" : "Bevorstehend",
-    "turns %n year old" : "wird %n Jahr alt",
-    "turns %n years old" : "wird %n Jahre alt",
-    "Recent" : "Vergangen",
-    "turned %n year old" : "wurde %n Jahr alt",
-    "turned %n years old" : "wurde %n Jahre alt",
-    "Tomorrow" : "Morgen",
-    "Yesterday" : "Gestern",
-    "Configure the date range for displaying birthdays in the dashboard widget." : "Konfigurieren Sie den Zeitraum, in dem Geburtstage im Dashboard-Widget angezeigt werden.",
-    "Days in the past" : "Tage in der Vergangenheit",
-    "Show birthdays that occurred up to this many days ago" : "Zeige Geburtstage, die bis zu dieser Anzahl Tage zurueckliegen",
-    "Days in the future" : "Tage in der Zukunft",
-    "Show birthdays that will occur within this many days" : "Zeige Geburtstage, die innerhalb dieser Anzahl Tage stattfinden",
-    "Save" : "Speichern",
-    "Settings saved" : "Einstellungen gespeichert",
     "Failed to save settings" : "Einstellungen konnten nicht gespeichert werden",
-    "The birthday calendar is disabled globally by the administrator." : "Der Geburtstagskalender wurde vom Administrator global deaktiviert.",
-    "Your personal birthday calendar is disabled." : "Ihr persönlicher Geburtstagskalender ist deaktiviert.",
-    "Enable" : "Aktivieren",
-    "Failed to enable birthday calendar" : "Geburtstagskalender konnte nicht aktiviert werden"
+    "Save" : "Speichern"
 },
 "nplurals=2; plural=(n != 1);");

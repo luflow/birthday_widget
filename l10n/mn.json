@@ -1,0 +1,8 @@
+{ "translations": {
+    "Settings saved" : "Тохиргоо хадгалагдлаа",
+    "Save" : "Хадгалах",
+    "Today" : "өнөөдөр",
+    "Tomorrow" : "маргааш",
+    "Yesterday" : "Өчигдөр"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

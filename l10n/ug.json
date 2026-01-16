@@ -1,0 +1,11 @@
+{ "translations": {
+    "Enable" : "قوزغىتىش",
+    "Settings saved" : "تەڭشەكلەر ساقلاندى",
+    "Failed to save settings" : "تەڭشەكلەرنى ساقلىيالمىدى",
+    "Save" : "ساقلا",
+    "Today" : "بۈگۈن",
+    "Tomorrow" : "ئەتە",
+    "Yesterday" : "تۈنۈگۈن",
+    "Recent" : "يېقىنقى"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

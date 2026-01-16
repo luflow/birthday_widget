@@ -1,0 +1,11 @@
+{ "translations": {
+    "Enable" : "Enable",
+    "Settings saved" : "Settings saved",
+    "Failed to save settings" : "Failed to save settings",
+    "Save" : "დამახსოვრება",
+    "Today" : "დღეს",
+    "Tomorrow" : "Tomorrow",
+    "Yesterday" : "გუშინ",
+    "Recent" : "Recent"
+},"pluralForm" :"nplurals=2; plural=(n!=1);"
+}

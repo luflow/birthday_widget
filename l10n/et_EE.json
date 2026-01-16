@@ -1,0 +1,10 @@
+{ "translations": {
+    "Enable" : "Võta kasutusele",
+    "Settings saved" : "Seadistused on salvestatud",
+    "Failed to save settings" : "Seadistuste salvestamine ei õnnestunud",
+    "Save" : "Salvesta",
+    "Today" : "Täna",
+    "Tomorrow" : "Homme",
+    "Yesterday" : "Eile"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

@@ -1,0 +1,7 @@
+{ "translations": {
+    "Settings saved" : "Agordoj konservitaj",
+    "Failed to save settings" : "Konservo de agordoj malsukcesis",
+    "Save" : "Konservi",
+    "Today" : "Hodiaŭ"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

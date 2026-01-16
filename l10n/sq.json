@@ -1,0 +1,9 @@
+{ "translations": {
+    "Enable" : "Aktivizoje",
+    "Settings saved" : "Opsjonet u Ruajtën.",
+    "Save" : "Ruaje",
+    "Today" : "Sot",
+    "Tomorrow" : "Nesër",
+    "Recent" : "Të fundit"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

@@ -1,0 +1,11 @@
+OC.L10N.register(
+    "birthday_widget",
+    {
+    "Enable" : "Activar",
+    "Settings saved" : "Se han guardado las configuraciones ",
+    "Failed to save settings" : "No se pudo guardar la configuración",
+    "Save" : "Guardar",
+    "Today" : "Hoy",
+    "Tomorrow" : "Mañana"
+},
+"nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");

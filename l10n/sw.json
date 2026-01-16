@@ -1,0 +1,11 @@
+{ "translations": {
+    "Enable" : "Wezesha",
+    "Settings saved" : "Mipangilio imehifadhiwa",
+    "Failed to save settings" : "Imeshindwa kuhifadhi mipangilio",
+    "Save" : "Hifadhi",
+    "Today" : "Leo",
+    "Tomorrow" : "Kesho",
+    "Yesterday" : "Jana",
+    "Recent" : "Hivi karibuni"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

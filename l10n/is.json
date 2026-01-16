@@ -1,0 +1,9 @@
+{ "translations": {
+    "Settings saved" : "Stillingar vistaðar",
+    "Failed to save settings" : "Mistókst að vista stillingar",
+    "Save" : "Vista",
+    "Today" : "Í dag",
+    "Tomorrow" : "Á morgun",
+    "Yesterday" : "Í gær"
+},"pluralForm" :"nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);"
+}

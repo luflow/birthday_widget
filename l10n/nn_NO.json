@@ -1,0 +1,7 @@
+{ "translations": {
+    "Enable" : "SLå på",
+    "Save" : "Lagre",
+    "Today" : "I dag",
+    "Yesterday" : "I går"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}
