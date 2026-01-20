@@ -1,0 +1,10 @@
+{ "translations": {
+    "Enable" : "Aktibatu",
+    "Settings saved" : "Ezarpenak gordeta",
+    "Failed to save settings" : "Ezarpenak gordetzeak huts egin du",
+    "Save" : "Gorde",
+    "Today" : "Gaur",
+    "Tomorrow" : "Bihar",
+    "Recent" : "Azkenak"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

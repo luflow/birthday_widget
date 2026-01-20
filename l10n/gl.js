@@ -1,0 +1,13 @@
+OC.L10N.register(
+    "birthday_widget",
+    {
+    "Enable" : "Activar",
+    "Settings saved" : "Axustes gardados",
+    "Failed to save settings" : "Produciuse un fallo ao gardar os axustes",
+    "Save" : "Gardar",
+    "Today" : "Hoxe",
+    "Tomorrow" : "Mañá",
+    "Yesterday" : "Onte",
+    "Recent" : "Recente"
+},
+"nplurals=2; plural=(n != 1);");

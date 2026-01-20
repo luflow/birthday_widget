@@ -4,6 +4,7 @@
     "Failed to save settings" : "Gagal simpan setelan",
     "Save" : "Simpan",
     "Today" : "Hari ini",
-    "Tomorrow" : "Besok"
+    "Tomorrow" : "Besok",
+    "Yesterday" : "Kemarin"
 },"pluralForm" :"nplurals=1; plural=0;"
 }

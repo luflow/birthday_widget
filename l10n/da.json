@@ -1,0 +1,11 @@
+{ "translations": {
+    "Enable" : "Aktiver",
+    "Settings saved" : "Indstillinger gemt",
+    "Failed to save settings" : "Kunne ikke gemme indstillinger",
+    "Save" : "Gem",
+    "Today" : "I dag",
+    "Tomorrow" : "I morgen",
+    "Yesterday" : "I går",
+    "Recent" : "Nylige"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

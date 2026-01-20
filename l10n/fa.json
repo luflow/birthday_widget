@@ -1,0 +1,10 @@
+{ "translations": {
+    "Enable" : "فعالسازی",
+    "Settings saved" : "تنظیمات ذخیره شد",
+    "Failed to save settings" : "تنظیمات ذخیره نشدند",
+    "Save" : "ذخیره",
+    "Today" : "امروز.",
+    "Tomorrow" : "فردا",
+    "Recent" : "اخیر"
+},"pluralForm" :"nplurals=2; plural=(n > 1);"
+}

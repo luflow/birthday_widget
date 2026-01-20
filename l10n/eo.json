@@ -1,7 +1,9 @@
 { "translations": {
+    "Enable" : "Ŝalti",
     "Settings saved" : "Agordoj konservitaj",
     "Failed to save settings" : "Konservo de agordoj malsukcesis",
     "Save" : "Konservi",
-    "Today" : "Hodiaŭ"
+    "Today" : "Hodiaŭ",
+    "Tomorrow" : "Morgaŭ"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

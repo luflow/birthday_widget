@@ -1,0 +1,11 @@
+{ "translations": {
+    "Enable" : "Ενεργοποίηση",
+    "Settings saved" : "Οι ρυθμίσεις αποθηκεύτηκαν",
+    "Failed to save settings" : "Αποτυχία αποθήκευσης ρυθμίσεων",
+    "Save" : "Αποθήκευση",
+    "Today" : "Σήμερα",
+    "Tomorrow" : "Αύριο",
+    "Yesterday" : "Χθες",
+    "Recent" : "Πρόσφατο"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

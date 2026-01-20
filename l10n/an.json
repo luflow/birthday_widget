@@ -1,4 +1,5 @@
 { "translations": {
-    "Today" : "आज"
+    "Today" : "Hue",
+    "Yesterday" : "Ahiere"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

@@ -1,5 +1,11 @@
 { "translations": {
+    "Enable" : "Aktivieren",
+    "Settings saved" : "Einstellungen gespeichert",
     "Failed to save settings" : "Einstellungen konnten nicht gespeichert werden",
-    "Save" : "Speichern"
+    "Save" : "Speichern",
+    "Today" : "Heute",
+    "Tomorrow" : "Morgen",
+    "Yesterday" : "Gestern",
+    "Recent" : "Neueste"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
