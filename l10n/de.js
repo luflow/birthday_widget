@@ -1,13 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "Geburtstage",
+    "Birthday widget" : "Geburtstags-Widget",
+    "Birthday Widget" : "Geburtstags-Widget",
+    "The birthday calendar is disabled globally by the administrator." : "Der Geburtstagskalender wurde von der Administration global deaktiviert.",
     "Enable" : "Aktivieren",
+    "Your personal birthday calendar is disabled." : "Dein persönlicher Geburtstagskalender ist deaktiviert.",
     "Settings saved" : "Einstellungen gespeichert",
     "Failed to save settings" : "Einstellungen konnten nicht gespeichert werden",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Den Datumsbereich für die Anzeige von Geburtstagen im Dashboard-Widget einstellen.",
+    "Days in the past" : "Tage in der Vergangenheit",
+    "Show birthdays that occurred up to this many days ago" : "Geburtstage anzeigen, die bis zu dieser Anzahl an Tagen in der Vergangenheit liegen",
+    "Days in the future" : "Tage in der Zukunft",
+    "Show birthdays that will occur within this many days" : "Geburtstage anzeigen, die bis zu dieser Anzahl an Tagen in der Zukunft liegen",
     "Save" : "Speichern",
     "Today" : "Heute",
-    "Tomorrow" : "Benötigt keine Übersetzung. Hier wird nur die formelle Übersetzung verwendet (de_DE).",
+    "Tomorrow" : "Morgen",
     "Yesterday" : "Gestern",
-    "Recent" : "Benötigt keine Übersetzung. Hier wird nur die formelle Übersetzung verwendet (de_DE). "
+    "No birthdays" : "Keine Geburtstage",
+    "Add birthday dates to your contacts to see them here" : "Deinen Kontakten Geburtsdaten hinzufügen, um sie hier anzuzeigen",
+    "Recent" : "Neueste",
+    "Upcoming" : "Kommende",
+    "_Turns %n year old_::_Turns %n years old_" : ["Wird %n Jahr alt","Wird %n Jahre alt"],
+    "_turned %n year old_::_turned %n years old_" : ["Wurde %n Jahr alt","Wurde %n Jahre alt"],
+    "_turns %n year old_::_turns %n years old_" : ["wird %n Jahr alt","wird %n Jahre alt"],
+    "Failed to enable birthday calendar" : "Geburtstagskalender konnte nicht aktiviert werden"
 },
 "nplurals=2; plural=(n != 1);");

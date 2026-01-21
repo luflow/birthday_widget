@@ -1,11 +1,28 @@
 { "translations": {
+    "Birthdays" : "Aniversários",
+    "Birthday widget" : "Widget de aniversários",
+    "Birthday Widget" : "Widget the aniversários",
+    "The birthday calendar is disabled globally by the administrator." : "O calendário de aniversários está desativado globalmente pela administração.",
     "Enable" : "Ativar",
+    "Your personal birthday calendar is disabled." : "Seu calendário pessoal de aniversários está desativado.",
     "Settings saved" : "Configurações salvas",
     "Failed to save settings" : "Falha ao salvar configurações",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Configure o intervalo de datas para exibir aniversários no widget do painel.",
+    "Days in the past" : "Dias no passado",
+    "Show birthdays that occurred up to this many days ago" : "Mostrar aniversários que ocorreram até há tantos dias",
+    "Days in the future" : "Dias no futuro",
+    "Show birthdays that will occur within this many days" : "Mostrar aniversários que ocorrerão dentro deste número de dias",
     "Save" : "Salvar",
     "Today" : "Hoje",
     "Tomorrow" : "Amanhã",
     "Yesterday" : "Ontem",
-    "Recent" : "Recentes"
+    "No birthdays" : "Nenhum aniversário",
+    "Add birthday dates to your contacts to see them here" : "Adicione datas de aniversário aos seus contatos para vê-las aqui",
+    "Recent" : "Recentes",
+    "Upcoming" : "Próximos",
+    "_Turns %n year old_::_Turns %n years old_" : ["Completa %n ano","Completa %n de anos","Completa %n anos"],
+    "_turned %n year old_::_turned %n years old_" : ["completou %n ano","completou %n de anos","completou %n anos"],
+    "_turns %n year old_::_turns %n years old_" : ["completa %n ano","completa %n de anos","completa %n anos"],
+    "Failed to enable birthday calendar" : "Falha ao ativar o calendário de aniversários"
 },"pluralForm" :"nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;"
 }

@@ -1,12 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "Sünnipäevad",
+    "Birthday widget" : "Sünnipäevade vidin",
+    "Birthday Widget" : "Sünnipäevade vidin",
+    "The birthday calendar is disabled globally by the administrator." : "Sünnipäevade kalender on peakasutaja poolt üldkasutusest keelatud.",
     "Enable" : "Võta kasutusele",
+    "Your personal birthday calendar is disabled." : "Sinu isiklik sünnipäevade kalender pole kasutusel.",
     "Settings saved" : "Seadistused on salvestatud",
     "Failed to save settings" : "Seadistuste salvestamine ei õnnestunud",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Määra kuupäevavahemik seadistamaks juhtpaneelil kuvatavaid sünnipäevi.",
+    "Days in the past" : "Päevi minevikus",
+    "Show birthdays that occurred up to this many days ago" : "Näita sünnipäevi antud päevade jooksul minevikus",
+    "Days in the future" : "Päevi tulevikus",
+    "Show birthdays that will occur within this many days" : "Näita sünnipäevi antud päevade jooksul tulevikus",
     "Save" : "Salvesta",
     "Today" : "Täna",
     "Tomorrow" : "Homme",
-    "Yesterday" : "Eile"
+    "Yesterday" : "Eile",
+    "No birthdays" : "Sünnipäevi pole",
+    "Add birthday dates to your contacts to see them here" : "Kui soovid siin näha sünnipäevi, siis sisesta need oma kontaktandmete juures",
+    "Recent" : "Hiljutised",
+    "Upcoming" : "Lähitulevikus",
+    "_Turns %n year old_::_Turns %n years old_" : ["Saab %n-aastaseks","Saab %n-aastaseks"],
+    "_turned %n year old_::_turned %n years old_" : ["sai %n-aastaseks","sai %n-aastaseks"],
+    "_turns %n year old_::_turns %n years old_" : ["saab %n-aastaseks","saab %n-aastaseks"],
+    "Failed to enable birthday calendar" : "Sünnipäevade kalendri kasutuselevõtmine ei õnnestunud"
 },
 "nplurals=2; plural=(n != 1);");

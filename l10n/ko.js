@@ -1,13 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "생일",
+    "Birthday widget" : "생일 위젯",
+    "Birthday Widget" : "생일 위젯",
+    "The birthday calendar is disabled globally by the administrator." : "생일 달력은 관리자에 의해 전역적으로 비활성화되었습니다.",
     "Enable" : "활성화",
+    "Your personal birthday calendar is disabled." : "개인 생일 캘린더가 비활성화되었습니다.",
     "Settings saved" : "설정이 저장되었습니다",
     "Failed to save settings" : "설정을 저장하는 데 실패했습니다",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "대시보드 위젯에 생일을 표시할 날짜 범위를 설정하세요.",
+    "Days in the past" : "지난 날짜",
+    "Show birthdays that occurred up to this many days ago" : "지금까지 생일을 맞은 사람들을 보여줍니다.",
+    "Days in the future" : "다가오는 날짜",
+    "Show birthdays that will occur within this many days" : "이틀 이내에 생일이 있는 사람들을 보여주세요.",
     "Save" : "저장",
     "Today" : "오늘",
     "Tomorrow" : "내일",
     "Yesterday" : "어제",
-    "Recent" : "최근 항목"
+    "No birthdays" : "생일 없음",
+    "Add birthday dates to your contacts to see them here" : "연락처에 생일을 추가하면 여기에 표시됩니다.",
+    "Recent" : "최근 항목",
+    "Upcoming" : "예정",
+    "_Turns %n year old_::_Turns %n years old_" : ["%n 세로 변경"],
+    "_turned %n year old_::_turned %n years old_" : ["%n 세로 변경됨"],
+    "_turns %n year old_::_turns %n years old_" : ["%n세로 변경"],
+    "Failed to enable birthday calendar" : "생일 캘린더를 활성화하는 데 실패했습니다."
 },
 "nplurals=1; plural=0;");
