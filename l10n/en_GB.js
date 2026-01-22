@@ -1,12 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "Birthdays",
+    "Birthday widget" : "Birthday widget",
+    "Birthday Widget" : "Birthday Widget",
+    "The birthday calendar is disabled globally by the administrator." : "The birthday calendar is disabled globally by the administrator.",
     "Enable" : "Enable",
+    "Your personal birthday calendar is disabled." : "Your personal birthday calendar is disabled.",
     "Settings saved" : "Settings saved",
     "Failed to save settings" : "Failed to save settings",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Configure the date range for displaying birthdays in the dashboard widget.",
+    "Days in the past" : "Days in the past",
+    "Show birthdays that occurred up to this many days ago" : "Show birthdays that occurred up to this many days ago",
+    "Days in the future" : "Days in the future",
+    "Show birthdays that will occur within this many days" : "Show birthdays that will occur within this many days",
     "Save" : "Save",
     "Today" : "Today",
     "Tomorrow" : "Tomorrow",
-    "Yesterday" : "Yesterday"
+    "Yesterday" : "Yesterday",
+    "No birthdays" : "No birthdays",
+    "Add birthday dates to your contacts to see them here" : "Add birthday dates to your contacts to see them here",
+    "Recent" : "Recent",
+    "Upcoming" : "Upcoming",
+    "_Turns %n year old_::_Turns %n years old_" : ["Turns %n year old","Turns %n years old"],
+    "_turned %n year old_::_turned %n years old_" : ["turned %n year old","turned %n years old"],
+    "_turns %n year old_::_turns %n years old_" : ["turns %n year old","turns %n years old"],
+    "Failed to enable birthday calendar" : "Failed to enable birthday calendar"
 },
 "nplurals=2; plural=(n != 1);");

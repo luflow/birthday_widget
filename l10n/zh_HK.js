@@ -1,13 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "生日",
+    "Birthday widget" : "生日小工具",
+    "Birthday Widget" : "生日小工具",
+    "The birthday calendar is disabled globally by the administrator." : "生日行事曆已被管理員在全域停用。",
     "Enable" : "啟用",
+    "Your personal birthday calendar is disabled." : "你的個人生日行事曆已停用。",
     "Settings saved" : "設定已保存",
     "Failed to save settings" : "設定儲存失敗",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "設定在儀表板小工具中顯示生日的日期範圍。",
+    "Days in the past" : "過去的天數",
+    "Show birthdays that occurred up to this many days ago" : "顯示在此天數內已過去的生日",
+    "Days in the future" : "未來的天數",
+    "Show birthdays that will occur within this many days" : "顯示在此天數內即將到來的生日",
     "Save" : "保存",
     "Today" : "今日",
     "Tomorrow" : "明日",
     "Yesterday" : "昨天",
-    "Recent" : "最新"
+    "No birthdays" : "沒有生日",
+    "Add birthday dates to your contacts to see them here" : "在你的聯絡人中加入生日日期即可在此顯示",
+    "Recent" : "最新",
+    "Upcoming" : "即將到來",
+    "_Turns %n year old_::_Turns %n years old_" : ["將滿 %n 歲"],
+    "_turned %n year old_::_turned %n years old_" : ["已滿 %n 歲"],
+    "_turns %n year old_::_turns %n years old_" : ["將滿 %n 歲"],
+    "Failed to enable birthday calendar" : "無法啟用生日行事曆"
 },
 "nplurals=1; plural=0;");
