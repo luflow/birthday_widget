@@ -1,11 +1,28 @@
 { "translations": {
+    "Birthdays" : "Breithlaethanta",
+    "Birthday widget" : "Giuirléid breithlá",
+    "Birthday Widget" : "Giuirléid Breithlá",
+    "The birthday calendar is disabled globally by the administrator." : "Tá an féilire breithe díchumasaithe go domhanda ag an riarthóir.",
     "Enable" : "Cumasaigh",
+    "Your personal birthday calendar is disabled." : "Tá do fhéilire breithe pearsanta díchumasaithe.",
     "Settings saved" : "Socruithe sábháilte",
     "Failed to save settings" : "Theip ar na socruithe a shábháil",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Cumraigh an raon dáta chun breithlaethanta a thaispeáint sa ghiuirléid painéil.",
+    "Days in the past" : "Laethanta san am atá thart",
+    "Show birthdays that occurred up to this many days ago" : "Taispeáin breithlaethanta a tharla suas go dtí an méid seo laethanta ó shin",
+    "Days in the future" : "Laethanta sa todhchaí",
+    "Show birthdays that will occur within this many days" : "Taispeáin breithlaethanta a tharlóidh laistigh den líon seo laethanta",
     "Save" : "Sábháil",
     "Today" : "Inniu",
     "Tomorrow" : "Amárach",
     "Yesterday" : "Inné",
-    "Recent" : "le déanaí"
+    "No birthdays" : "Gan aon bhreithlaethanta",
+    "Add birthday dates to your contacts to see them here" : "Cuir dátaí breithe le do theagmhálaithe le go bhfeicfidh tú iad anseo",
+    "Recent" : "le déanaí",
+    "Upcoming" : "Ag teacht",
+    "_Turns %n year old_::_Turns %n years old_" : ["Casann sé %n bliain d'aois","Casann %n bliain d'aois","Casann %n bliain d'aois","Casann %n bliain d'aois","Casann %n bliain d'aois"],
+    "_turned %n year old_::_turned %n years old_" : ["chas %n blian d'aois","chas %n bliana d'aois","chas %n bliana d'aois","chas %n bliana d'aois","chas %n bliana d'aois"],
+    "_turns %n year old_::_turns %n years old_" : ["chas %n bliain d'aois","chas %n bliaina d'aois","chas %n bliaina d'aois","chas %n bliaina d'aois","chas %n bliaina d'aois"],
+    "Failed to enable birthday calendar" : "Theip ar fhéilire breithlá a chumasú"
 },"pluralForm" :"nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);"
 }
