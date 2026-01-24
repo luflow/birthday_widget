@@ -5,7 +5,7 @@ OC.L10N.register(
     "Settings saved" : "Impostazioni salvate",
     "Failed to save settings" : "Salvataggio impostazioni non riuscito",
     "Save" : "Salva",
-    "Today" : "Ogg",
+    "Today" : "Oggi",
     "Tomorrow" : "Domani",
     "Recent" : "Recenti"
 },

@@ -1,10 +1,28 @@
 { "translations": {
+    "Birthdays" : "Ulang tahun",
+    "Birthday widget" : "Widget ulang tahun",
+    "Birthday Widget" : "Widget Ulang Tahun",
+    "The birthday calendar is disabled globally by the administrator." : "Kalender ulang tahun dinonaktifkan secara global oleh administrator.",
     "Enable" : "Aktifkan",
-    "Settings saved" : "Setelan tersimpan",
-    "Failed to save settings" : "Gagal simpan setelan",
+    "Your personal birthday calendar is disabled." : "Kalender ulang tahun pribadi Anda dinonaktifkan.",
+    "Settings saved" : "Pengaturan disimpan",
+    "Failed to save settings" : "Gagal menyimpan pengaturan",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Konfigurasikan rentang tanggal untuk menampilkan ulang tahun di widget dasbor.",
+    "Days in the past" : "Hari di masa lalu",
+    "Show birthdays that occurred up to this many days ago" : "Tampilkan ulang tahun yang terjadi hingga sebanyak ini hari yang lalu",
+    "Days in the future" : "Hari di masa depan",
+    "Show birthdays that will occur within this many days" : "Tampilkan ulang tahun yang akan terjadi dalam sebanyak ini hari",
     "Save" : "Simpan",
     "Today" : "Hari ini",
     "Tomorrow" : "Besok",
-    "Yesterday" : "Kemarin"
+    "Yesterday" : "Kemarin",
+    "No birthdays" : "Tidak ada ulang tahun",
+    "Add birthday dates to your contacts to see them here" : "Tambahkan tanggal ulang tahun ke kontak Anda untuk melihatnya di sini",
+    "Recent" : "Terbaru",
+    "Upcoming" : "Mendatang",
+    "_Turns %n year old_::_Turns %n years old_" : ["Berusia %n tahun"],
+    "_turned %n year old_::_turned %n years old_" : ["berusia %n tahun"],
+    "_turns %n year old_::_turns %n years old_" : ["akan berusia %n tahun"],
+    "Failed to enable birthday calendar" : "Gagal mengaktifkan kalender ulang tahun"
 },"pluralForm" :"nplurals=1; plural=0;"
 }
