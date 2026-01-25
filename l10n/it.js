@@ -1,12 +1,25 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "Compleanni",
+    "Birthday widget" : "Widget Compleanni",
+    "Birthday Widget" : "Widget Compleanni",
+    "The birthday calendar is disabled globally by the administrator." : "Il calendario dei compleanni è stato disabilitato globalmente dall'amministratore.",
     "Enable" : "Abilita",
+    "Your personal birthday calendar is disabled." : "Il tuo calendario dei compleanni personale è disabilitato.",
     "Settings saved" : "Impostazioni salvate",
     "Failed to save settings" : "Salvataggio impostazioni non riuscito",
+    "Days in the past" : "Giorni nel passato",
+    "Show birthdays that occurred up to this many days ago" : "Mostra i compleanni avvenuti fino a questo numero di giorni fa",
+    "Days in the future" : "Giorni nel futuro",
+    "Show birthdays that will occur within this many days" : "Mostra i compleanni che si verificheranno entro questo numero di giorni",
     "Save" : "Salva",
     "Today" : "Oggi",
     "Tomorrow" : "Domani",
-    "Recent" : "Recenti"
+    "Yesterday" : "Ieri",
+    "No birthdays" : "Nessun compleanno",
+    "Add birthday dates to your contacts to see them here" : "Aggiungi le date di compleanno ai tuoi contatti per vederle qui",
+    "Recent" : "Recenti",
+    "Upcoming" : "Prossimi"
 },
 "nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");
