@@ -5,6 +5,7 @@ OC.L10N.register(
     "Settings saved" : "Postavke spremljene",
     "Failed to save settings" : "Spremanje postavki nije uspjelo",
     "Save" : "Spremi",
+    "Today" : "Danas",
     "Tomorrow" : "Sutra",
     "Recent" : "Nedavni"
 },
