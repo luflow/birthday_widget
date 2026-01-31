@@ -1,13 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "Aniversarios",
+    "Birthday widget" : "Trebello de aniversario",
+    "Birthday Widget" : "Trebello de aniversario",
+    "The birthday calendar is disabled globally by the administrator." : "A administración desactivou o calendario de aniversarios de xeito global.",
     "Enable" : "Activar",
+    "Your personal birthday calendar is disabled." : "O seu calendario persoal de aniversarios está desactivado.",
     "Settings saved" : "Axustes gardados",
     "Failed to save settings" : "Produciuse un fallo ao gardar os axustes",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Configure o intervalo de datas para amosar os aniversarios no trebello do panel de control.",
+    "Days in the past" : "Días no pasado",
+    "Show birthdays that occurred up to this many days ago" : "Amosar os aniversarios que se celebraron ata hai tantos días",
+    "Days in the future" : "Días no futuro",
+    "Show birthdays that will occur within this many days" : "Amosar os aniversarios que se celebrarán dentro destes días",
     "Save" : "Gardar",
     "Today" : "Hoxe",
     "Tomorrow" : "Mañá",
     "Yesterday" : "Onte",
-    "Recent" : "Recente"
+    "No birthdays" : "Non hai ningún aniversario",
+    "Add birthday dates to your contacts to see them here" : "Engada as datas de aniversario dos seus contactos para velas aquí",
+    "Recent" : "Recentes",
+    "Upcoming" : "Próximos",
+    "_Turns %n year old_::_Turns %n years old_" : ["Fai %n ano","Fai %n anos"],
+    "_turned %n year old_::_turned %n years old_" : ["fixo %n ano","fixo %n anos"],
+    "_turns %n year old_::_turns %n years old_" : ["fai %n ano","fai %n anos"],
+    "Failed to enable birthday calendar" : "Produciuse un fallo ao activar o calendario de aniversarios"
 },
 "nplurals=2; plural=(n != 1);");
