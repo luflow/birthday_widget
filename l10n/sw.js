@@ -1,13 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "Siku za kuzaliwa",
+    "Birthday widget" : "Kipachiko cha siku ya kuzaliwa",
+    "Birthday Widget" : "Kipachiko cha siku ya kuzaliwa",
+    "The birthday calendar is disabled globally by the administrator." : "Kalenda ya siku ya kuzaliwa imezimwa duniani kote na msimamizi.",
     "Enable" : "Wezesha",
+    "Your personal birthday calendar is disabled." : "Kalenda yako ya kibinafsi ya siku ya kuzaliwa imezimwa.",
     "Settings saved" : "Mipangilio imehifadhiwa",
     "Failed to save settings" : "Imeshindwa kuhifadhi mipangilio",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Sanidi safu ya tarehe ya kuonyesha siku za kuzaliwa katika wijeti ya dashibodi.",
+    "Days in the past" : "Siku wakati uliopita",
+    "Show birthdays that occurred up to this many days ago" : "Onyesha siku za kuzaliwa zilizotokea hadi hii siku nyingi zilizopita",
+    "Days in the future" : "Siku wakati ujao",
+    "Show birthdays that will occur within this many days" : "Onyesha siku za kuzaliwa zitakazotokea ndani ya siku hizi nyingi",
     "Save" : "Hifadhi",
     "Today" : "Leo",
     "Tomorrow" : "Kesho",
     "Yesterday" : "Jana",
-    "Recent" : "Hivi karibuni"
+    "No birthdays" : "Hakuna siku za kuzaliwa",
+    "Add birthday dates to your contacts to see them here" : "Ongeza tarehe za kuzaliwa kwa watu unaowasiliana nao ili kuziona hapa",
+    "Recent" : "Hivi karibuni",
+    "Upcoming" : "Ijayo",
+    "_Turns %n year old_::_Turns %n years old_" : ["Turns %n year old","Inafikisha umri wa miaka %n"],
+    "_turned %n year old_::_turned %n years old_" : ["turned %n year old","alifikisha miaka %n"],
+    "_turns %n year old_::_turns %n years old_" : ["turns %n year old","inafikisha umri wa miaka %n"],
+    "Failed to enable birthday calendar" : "Imeshindwa kuwasha kalenda ya siku ya kuzaliwa"
 },
 "nplurals=2; plural=(n != 1);");
