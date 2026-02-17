@@ -2,9 +2,16 @@
 
 ## [Unreleased]
 
-### Added
+## 1.1.0 – 2026-02-17
 
-- Nightly changes here
+### Fixed
+
+- Fix app icon not displaying in the apps list (added dark/light SVG variants)
+- Fix widget icon not displaying on the dashboard (bundle icon CSS via Vite)
+
+### Changed
+
+- Update npm and composer dependencies
 
 ## 1.0.0 – 2026-01-10
 
