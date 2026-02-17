@@ -72,7 +72,6 @@ class Widget implements IAPIWidget {
 
 		Util::addScript(Application::APP_ID, Application::APP_ID . '-dashboard');
 		Util::addStyle(Application::APP_ID, Application::APP_ID . '-dashboard');
-		Util::addStyle(Application::APP_ID, 'icon');
 	}
 
 	/**

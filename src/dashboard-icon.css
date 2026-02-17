@@ -1,0 +1,7 @@
+.icon-cake {
+	background-image: url('../img/app-dark.svg');
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+	background-position: center;
+	filter: var(--background-invert-if-dark);
+}

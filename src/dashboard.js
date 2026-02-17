@@ -1,3 +1,4 @@
+import './dashboard-icon.css'
 import { createApp } from 'vue'
 import { translate, translatePlural } from '@nextcloud/l10n'
 import BirthdayWidget from './views/Widget.vue'
