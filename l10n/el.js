@@ -1,13 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "Γενέθλια",
+    "Birthday widget" : "Γραφικό στοιχείο γενεθλίων",
+    "Birthday Widget" : "Γραφικό στοιχείο γενεθλίων",
+    "The birthday calendar is disabled globally by the administrator." : "Το ημερολόγιο γενεθλίων είναι απενεργοποιημένο καθολικά από τον διαχειριστή.",
     "Enable" : "Ενεργοποίηση",
+    "Your personal birthday calendar is disabled." : "Το προσωπικό σας ημερολόγιο γενεθλίων είναι απενεργοποιημένο.",
     "Settings saved" : "Οι ρυθμίσεις αποθηκεύτηκαν",
     "Failed to save settings" : "Αποτυχία αποθήκευσης ρυθμίσεων",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Ρυθμίστε το εύρος ημερομηνιών για την εμφάνιση των γενεθλίων στο γραφικό στοιχείο του πίνακα ελέγχου.",
+    "Days in the past" : "Ημέρες στο παρελθόν",
+    "Show birthdays that occurred up to this many days ago" : "Εμφάνιση γενεθλίων που συνέβησαν έως και τόσες ημέρες πριν",
+    "Days in the future" : "Ημέρες στο μέλλον",
+    "Show birthdays that will occur within this many days" : "Εμφάνιση γενεθλίων που θα συμβούν εντός αυτού του αριθμού ημερών",
     "Save" : "Αποθήκευση",
     "Today" : "Σήμερα",
     "Tomorrow" : "Αύριο",
     "Yesterday" : "Χθες",
-    "Recent" : "Πρόσφατο"
+    "No birthdays" : "Δεν υπάρχουν γενέθλια",
+    "Add birthday dates to your contacts to see them here" : "Προσθέστε ημερομηνίες γενεθλίων στις επαφές σας για να τις δείτε εδώ",
+    "Recent" : "Πρόσφατο",
+    "Upcoming" : "Προσεχή",
+    "_Turns %n year old_::_Turns %n years old_" : ["Γίνεται %n έτους","Γίνεται %n ετών"],
+    "_turned %n year old_::_turned %n years old_" : ["έγινε %n έτους","έγινε %n ετών"],
+    "_turns %n year old_::_turns %n years old_" : ["γίνεται %n έτους","γίνεται %n ετών"],
+    "Failed to enable birthday calendar" : "Αποτυχία ενεργοποίησης ημερολογίου γενεθλίων"
 },
 "nplurals=2; plural=(n != 1);");
