@@ -1,8 +1,12 @@
 { "translations": {
+    "Birthdays" : "Төрсөн өдрүүд",
+    "Enable" : "Идэвхжүүлэх",
     "Settings saved" : "Тохиргоо хадгалагдлаа",
+    "Failed to save settings" : "Тохиргоог хадгалж чадсангүй",
     "Save" : "Хадгалах",
     "Today" : "өнөөдөр",
     "Tomorrow" : "маргааш",
-    "Yesterday" : "Өчигдөр"
+    "Yesterday" : "Өчигдөр",
+    "Recent" : "Сүүлийн"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
