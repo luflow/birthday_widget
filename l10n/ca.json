@@ -1,10 +1,28 @@
 { "translations": {
-    "Enable" : "Habilitar",
+    "Birthdays" : "Aniversaris",
+    "Birthday widget" : "Giny d'aniversaris",
+    "Birthday Widget" : "Giny d'aniversaris",
+    "The birthday calendar is disabled globally by the administrator." : "L'administrador ha inhabilitat globalment el calendari d'aniversaris.",
+    "Enable" : "Habilita",
+    "Your personal birthday calendar is disabled." : "El calendari personal d'aniversaris està inhabilitat.",
     "Settings saved" : "S'han desat els paràmetres",
-    "Failed to save settings" : "Ha fallat desar els paràmetres",
-    "Save" : "Desar",
+    "Failed to save settings" : "No s'han pogut desar els paràmetres",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Configureu l'interval de dates per a mostrar els aniversaris al giny del tauler.",
+    "Days in the past" : "Dies en el passat",
+    "Show birthdays that occurred up to this many days ago" : "Mostra els aniversaris celebrats fins a aquests dies en el passat",
+    "Days in the future" : "Dies en el futur",
+    "Show birthdays that will occur within this many days" : "Mostra els aniversaris que se celebraran fins a aquests dies en el futur",
+    "Save" : "Desa",
     "Today" : "Avui",
     "Tomorrow" : "Demà",
-    "Recent" : "Recent"
+    "Yesterday" : "Ahir",
+    "No birthdays" : "No hi ha cap aniversari",
+    "Add birthday dates to your contacts to see them here" : "Afegiu les dates d'aniversari als vostres contactes per a veure-les aquí",
+    "Recent" : "Recents",
+    "Upcoming" : "Pròxims",
+    "_Turns %n year old_::_Turns %n years old_" : ["Fa %n any","Fa %n anys"],
+    "_turned %n year old_::_turned %n years old_" : ["ha fet %n any","ha fet %n anys"],
+    "_turns %n year old_::_turns %n years old_" : ["fa %n any","fa %n anys"],
+    "Failed to enable birthday calendar" : "No s'ha pogut habilitar el calendari d'aniversaris"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
