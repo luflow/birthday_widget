@@ -1,13 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "Doğum günleri",
+    "Birthday widget" : "Doğum günü pano bileşeni",
+    "Birthday Widget" : "Doğum günü pano bileşeni",
+    "The birthday calendar is disabled globally by the administrator." : "Doğum günü takvimi özelliği BT yöneticisi tarafından kapatılmış.",
     "Enable" : "Kullanıma al",
+    "Your personal birthday calendar is disabled." : "Kişisel doğum günü takviminiz kullanımdan kaldırılmış.",
     "Settings saved" : "Ayarlar kaydedildi",
     "Failed to save settings" : "Ayarlar kaydedilemedi",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Pano bileşeninde görüntülenecek doğum günlerinin tarih aralığını yapılandırın.",
+    "Days in the past" : "Geçmiş gün sayısı",
+    "Show birthdays that occurred up to this many days ago" : "Bu kadar gün önceki doğum günlerini görüntüler",
+    "Days in the future" : "Gelecek gün sayısı",
+    "Show birthdays that will occur within this many days" : "Bu kadar gün sonraki doğum günlerini görüntüler",
     "Save" : "Kaydet",
     "Today" : "Bugün",
     "Tomorrow" : "Yarın",
     "Yesterday" : "Dün",
-    "Recent" : "Son kullanılan"
+    "No birthdays" : "Herhangi bir doğum günü yok",
+    "Add birthday dates to your contacts to see them here" : "Burada görüntülenmesi için kişilerinize doğum günü tarihlerini ekleyin",
+    "Recent" : "Geçmiş",
+    "Upcoming" : "Yaklaşan",
+    "_Turns %n year old_::_Turns %n years old_" : ["%n yaşına giriyor","%n yaşına giriyor"],
+    "_turned %n year old_::_turned %n years old_" : ["%n yaşına girdi","%n yaşına girdi"],
+    "_turns %n year old_::_turns %n years old_" : ["%n yaşına giriyor","%n yaşına giriyor"],
+    "Failed to enable birthday calendar" : "Doğum günü takvimi kullanıma alınamadı"
 },
 "nplurals=2; plural=(n > 1);");

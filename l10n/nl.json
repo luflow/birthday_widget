@@ -5,6 +5,7 @@
     "Save" : "Opslaan",
     "Today" : "Vandaag",
     "Tomorrow" : "Morgen",
+    "Yesterday" : "Gisteren",
     "Recent" : "Recent"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

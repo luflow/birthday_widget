@@ -7,6 +7,7 @@ OC.L10N.register(
     "Save" : "Opslaan",
     "Today" : "Vandaag",
     "Tomorrow" : "Morgen",
+    "Yesterday" : "Gisteren",
     "Recent" : "Recent"
 },
 "nplurals=2; plural=(n != 1);");
