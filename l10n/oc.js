@@ -1,10 +1,26 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "Anniversaris",
+    "Birthday widget" : "Widget d’anniversari",
+    "Birthday Widget" : "Widget d’anniversari",
+    "Enable" : "Activar",
+    "Your personal birthday calendar is disabled." : "Vòstre calendari d'aniversaris personal es desactivat.",
     "Settings saved" : "Paramètres salvats",
+    "Failed to save settings" : "Fracàs de l’enregistrament dels paramètres",
+    "Days in the past" : "Jorns dins lo passat",
+    "Days in the future" : "Jorns dins lo futur",
     "Save" : "Enregistrar",
     "Today" : "Uèi",
     "Tomorrow" : "Deman",
-    "Recent" : "Recents"
+    "Yesterday" : "Ièr",
+    "No birthdays" : "Cap d’anniversari",
+    "Add birthday dates to your contacts to see them here" : "Apondètz de datas d'anniversari a vòstres contactes per los veire aicí",
+    "Recent" : "Recents",
+    "Upcoming" : "Lèu",
+    "_Turns %n year old_::_Turns %n years old_" : ["Fa %n an","Fa %n ans"],
+    "_turned %n year old_::_turned %n years old_" : ["faguèt %n an","faguèt %n ans"],
+    "_turns %n year old_::_turns %n years old_" : ["fa %n an ","fa %n ans"],
+    "Failed to enable birthday calendar" : "Fracàs de l’activacion del calendièr dels anniversaris"
 },
 "nplurals=2; plural=(n > 1);");
