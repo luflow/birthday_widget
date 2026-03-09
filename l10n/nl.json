@@ -1,11 +1,28 @@
 { "translations": {
+    "Birthdays" : "Verjaardagen",
+    "Birthday widget" : "Verjaardag widget",
+    "Birthday Widget" : "Verjaardag Widget",
+    "The birthday calendar is disabled globally by the administrator." : "De verjaardagskalender is globaal uitgeschakeld door de beheerder.",
     "Enable" : "Inschakelen",
+    "Your personal birthday calendar is disabled." : "Je persoonlijke verjaardagskalender is uitgeschakeld.",
     "Settings saved" : "Instellingen opgeslagen",
     "Failed to save settings" : "Instellingen konden niet worden opgeslagen",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Stel de datum reeks in om verjaardagen te laten zien op het dashboard widget.",
+    "Days in the past" : "Dagen in het verleden",
+    "Show birthdays that occurred up to this many days ago" : "Laat verjaardagen zien tot zoveel dagen geleden",
+    "Days in the future" : "Dagen in de toekomst",
+    "Show birthdays that will occur within this many days" : "Laat verjaardagen zien dat tot zoveel dagen in de toekomst plaatsvinden",
     "Save" : "Opslaan",
     "Today" : "Vandaag",
     "Tomorrow" : "Morgen",
     "Yesterday" : "Gisteren",
-    "Recent" : "Recent"
+    "No birthdays" : "Geen verjaardagen",
+    "Add birthday dates to your contacts to see them here" : "Voer verjaardagdata toe in je contacten om ze te zien",
+    "Recent" : "Recent",
+    "Upcoming" : "Aankomende",
+    "_Turns %n year old_::_Turns %n years old_" : ["Wordt %n jaar oud","Wordt %n jaren oud"],
+    "_turned %n year old_::_turned %n years old_" : ["werd %n jaar oud","werd %n jaren oud"],
+    "_turns %n year old_::_turns %n years old_" : ["wordt %n jaar oud","wordt %n jaren oud"],
+    "Failed to enable birthday calendar" : "Inschakelen verjaardagskalender mislukt"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
