@@ -3,7 +3,7 @@
     "Birthday widget" : "Fødselsdags widget",
     "Birthday Widget" : "Fødselsdags Widget",
     "The birthday calendar is disabled globally by the administrator." : "Fødselsdagskalenderen er deaktiveret globalt af administratoren.",
-    "Enable" : "Aktiver",
+    "Enable" : "Aktivér",
     "Your personal birthday calendar is disabled." : "Din personlige fødselsdagskalender er deaktiveret.",
     "Settings saved" : "Indstillinger gemt",
     "Failed to save settings" : "Kunne ikke gemme indstillinger",
@@ -20,7 +20,7 @@
     "Add birthday dates to your contacts to see them here" : "Tilføj fødselsdage til dine kontakter for at se dem her",
     "Recent" : "Nylige",
     "Upcoming" : "Kommende",
-    "_Turns %n year old_::_Turns %n years old_" : ["Blev %n år gammel","Bliver %n år gammel"],
+    "_Turns %n year old_::_Turns %n years old_" : ["Bliver %n år gammel","Bliver %n år gammel"],
     "_turned %n year old_::_turned %n years old_" : ["blev %n år gammel","blev %n år gammel"],
     "_turns %n year old_::_turns %n years old_" : ["bliver %n år gammel","bliver %n år gammel"],
     "Failed to enable birthday calendar" : "Kunne ikke aktivere fødselsdagskalender"
