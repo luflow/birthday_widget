@@ -7,6 +7,7 @@ OC.L10N.register(
     "Save" : "ບັນທຶກ",
     "Today" : "ມື້ນີ້",
     "Tomorrow" : "ມື້ອື່ນ",
-    "Yesterday" : "Yesterday"
+    "Yesterday" : "Yesterday",
+    "Recent" : "ຫວ່າງບໍ່ດົນມານີ້"
 },
 "nplurals=1; plural=0;");
