@@ -1,13 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "Urodziny",
+    "Birthday widget" : "Widżet urodzin",
+    "Birthday Widget" : "Widżet urodzin",
+    "The birthday calendar is disabled globally by the administrator." : "Kalendarz urodzin jest globalnie wyłączony przez administratora",
     "Enable" : "Włącz",
+    "Your personal birthday calendar is disabled." : "Twój osobisty kalendarz urodzin jest wyłączony",
     "Settings saved" : "Ustawienia zapisane",
     "Failed to save settings" : "Nie udało się zapisać ustawień",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Skonfiguruj zakres dat wyświetlania urodzin w widżecie pulpitu",
+    "Days in the past" : "Dni w przeszłości",
+    "Show birthdays that occurred up to this many days ago" : "Pokaż urodziny, które miały miejsce do tylu dni temu",
+    "Days in the future" : "Dni w przyszłości",
+    "Show birthdays that will occur within this many days" : "Pokaż urodziny, które nastąpią w ciągu tylu dni",
     "Save" : "Zapisz",
     "Today" : "Dzisiaj",
     "Tomorrow" : "Jutro",
     "Yesterday" : "Wczoraj",
-    "Recent" : "Ostatnie"
+    "No birthdays" : "Brak urodzin",
+    "Add birthday dates to your contacts to see them here" : "Dodaj daty urodzin do swoich kontaktów, aby zobaczyć je tutaj",
+    "Recent" : "Ostatnie",
+    "Upcoming" : "Nadchodzące",
+    "_Turns %n year old_::_Turns %n years old_" : ["Kończy %n rok","Kończy %n lat","Kończy %n lat","Kończy %n lat"],
+    "_turned %n year old_::_turned %n years old_" : ["Ukończył(a) %n rok","Ukończył(a) %n lat","Ukończył(a) %n lat","Ukończył(a) %n lat"],
+    "_turns %n year old_::_turns %n years old_" : ["Kończy %n rok","Kończy %n lat","Kończy %n lat","Kończy %n lat"],
+    "Failed to enable birthday calendar" : "Nie udało się włączyć kalendarza urodzin"
 },
 "nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);");
