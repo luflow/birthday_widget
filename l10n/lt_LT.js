@@ -1,6 +1,7 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "The birthday calendar is disabled globally by the administrator." : "Gimtadienių kalendorių administratorius išjungė visuotinai.",
     "Enable" : "Įjungti",
     "Settings saved" : "Nustatymai įrašyti",
     "Failed to save settings" : "Nepavyko įrašyti nustatymų",
