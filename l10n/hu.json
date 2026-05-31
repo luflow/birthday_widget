@@ -5,6 +5,7 @@
     "Save" : "Mentés",
     "Today" : "Ma",
     "Tomorrow" : "Holnap",
+    "Yesterday" : "Tegnap",
     "Recent" : "Legutóbbiak"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

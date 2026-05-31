@@ -7,6 +7,7 @@ OC.L10N.register(
     "Save" : "Mentés",
     "Today" : "Ma",
     "Tomorrow" : "Holnap",
+    "Yesterday" : "Tegnap",
     "Recent" : "Legutóbbiak"
 },
 "nplurals=2; plural=(n != 1);");
