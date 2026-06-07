@@ -1,10 +1,28 @@
 { "translations": {
+    "Birthdays" : "تولدها",
+    "Birthday widget" : "ابزارک تولد",
+    "Birthday Widget" : "ابزارک تولد",
+    "The birthday calendar is disabled globally by the administrator." : "تقویم تولد به‌صورت سراسری توسط مدیر غیرفعال شده است.",
     "Enable" : "فعالسازی",
+    "Your personal birthday calendar is disabled." : "تقویم تولد شخصی شما غیرفعال است.",
     "Settings saved" : "تنظیمات ذخیره شد",
     "Failed to save settings" : "تنظیمات ذخیره نشدند",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "بازه‌ی زمانی نمایش تولدها در ابزارک پیشخوان را پیکربندی کنید.",
+    "Days in the past" : "روزهای گذشته",
+    "Show birthdays that occurred up to this many days ago" : "نمایش تولدهایی که تا این تعداد روز پیش رخ داده‌اند",
+    "Days in the future" : "روزهای آینده",
+    "Show birthdays that will occur within this many days" : "نمایش تولدهایی که تا این تعداد روز آینده رخ می‌دهند",
     "Save" : "ذخیره",
     "Today" : "امروز.",
     "Tomorrow" : "فردا",
-    "Recent" : "اخیر"
+    "Yesterday" : "دیروز",
+    "No birthdays" : "بدون تولد",
+    "Add birthday dates to your contacts to see them here" : "تاریخ تولد را به مخاطبین خود اضافه کنید تا اینجا نمایش داده شوند",
+    "Recent" : "اخیر",
+    "Upcoming" : "آینده",
+    "_Turns %n year old_::_Turns %n years old_" : ["%n ساله می‌شود","%n ساله می‌شود"],
+    "_turned %n year old_::_turned %n years old_" : ["%n ساله شد","%n ساله شد"],
+    "_turns %n year old_::_turns %n years old_" : ["%n ساله می‌شود","%n ساله می‌شود"],
+    "Failed to enable birthday calendar" : "فعال کردن تقویم تولد ناموفق بود"
 },"pluralForm" :"nplurals=2; plural=(n > 1);"
 }
