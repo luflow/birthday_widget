@@ -1,6 +1,9 @@
 { "translations": {
+    "Enable" : "Sermed",
+    "Settings saved" : "Iγewwaṛen ttwakelsen",
     "Save" : "Sekles",
     "Today" : "Ass-a",
-    "Yesterday" : "Iḍelli"
+    "Yesterday" : "Iḍelli",
+    "Upcoming" : "Itteddu-d"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
