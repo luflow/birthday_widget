@@ -1,6 +1,7 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Save" : "Save",
     "Today" : "dźensa",
     "Yesterday" : "wčera"
 },

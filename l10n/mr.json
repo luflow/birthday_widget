@@ -1,4 +1,5 @@
 { "translations": {
+    "Save" : "Save",
     "Today" : "आज",
     "Yesterday" : "काल"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"

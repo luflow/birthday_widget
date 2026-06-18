@@ -2,7 +2,6 @@ OC.L10N.register(
     "birthday_widget",
     {
     "Save" : "Save",
-    "Today" : "Hue",
-    "Yesterday" : "Ahiere"
+    "Today" : "Hodie"
 },
 "nplurals=2; plural=(n != 1);");

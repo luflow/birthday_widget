@@ -1,6 +1,5 @@
 { "translations": {
     "Save" : "Save",
-    "Today" : "Hue",
-    "Yesterday" : "Ahiere"
+    "Today" : "Hodie"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

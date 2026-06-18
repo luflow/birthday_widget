@@ -1,5 +1,6 @@
 { "translations": {
     "Settings saved" : "Stillingar eru goymd",
+    "Save" : "Save",
     "Today" : "Ídag"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
