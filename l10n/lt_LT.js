@@ -9,7 +9,7 @@ OC.L10N.register(
     "Your personal birthday calendar is disabled." : "Jūsų asmeninis gimtadienių kalendorius išjungtas.",
     "Settings saved" : "Nustatymai įrašyti",
     "Failed to save settings" : "Nepavyko įrašyti nustatymų",
-    "Configure the date range for displaying birthdays in the dashboard widget." : "Konfigūruokite dienų diapazoną, kada gimtadieniai bus rodomi skydelio valdiklyje.",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Konfigūruokite dienų rėžį, kada gimtadieniai bus rodomi skydelio valdiklyje.",
     "Days in the past" : "Dienos praeityje",
     "Show birthdays that occurred up to this many days ago" : "Rodyti gimtadienius, kurie buvo prieš tiek dienų",
     "Days in the future" : "Dienos ateityje",
