@@ -17,6 +17,7 @@ OC.L10N.register(
     "Today" : "Hoje",
     "Tomorrow" : "Amanhã",
     "Yesterday" : "Ontem",
+    "No birthdays" : "Nenhum aniversário",
     "Add birthday dates to your contacts to see them here" : "Adicione datas de aniversário aos seus contatos para vê-las aqui",
     "Recent" : "Recentes",
     "Upcoming" : "Próximos",
