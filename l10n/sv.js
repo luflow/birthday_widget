@@ -2,8 +2,8 @@ OC.L10N.register(
     "birthday_widget",
     {
     "Enable" : "Aktivera",
-    "Settings saved" : "Inställningar sparade",
-    "Failed to save settings" : "Kunde inte spara inställningarna",
+    "Settings saved" : "Inställningarna har sparats",
+    "Failed to save settings" : "Det gick inte att spara inställningarna",
     "Save" : "Spara",
     "Today" : "Idag",
     "Tomorrow" : "I morgon",
