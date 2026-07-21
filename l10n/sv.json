@@ -1,11 +1,28 @@
 { "translations": {
+    "Birthdays" : "Födelsedagar",
+    "Birthday widget" : "Födelsedagswidget",
+    "Birthday Widget" : "Födelsedagswidget",
+    "The birthday calendar is disabled globally by the administrator." : "Födelsedagskalendern har inaktiverats globalt av administratören.",
     "Enable" : "Aktivera",
+    "Your personal birthday calendar is disabled." : "Din personliga födelsedagskalender är inaktiverad.",
     "Settings saved" : "Inställningarna har sparats",
     "Failed to save settings" : "Det gick inte att spara inställningarna",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Ange datumintervallet för födelsedagar som ska visas i instrumentpanelens widget.",
+    "Days in the past" : "Dagar bakåt",
+    "Show birthdays that occurred up to this many days ago" : "Visa födelsedagar som inföll upp till så här många dagar tillbaka",
+    "Days in the future" : "Dagar framåt",
+    "Show birthdays that will occur within this many days" : "Visa födelsedagar som infaller inom så här många dagar",
     "Save" : "Spara",
     "Today" : "Idag",
     "Tomorrow" : "I morgon",
     "Yesterday" : "I går",
-    "Recent" : "Senaste"
+    "No birthdays" : "Inga födelsedagar",
+    "Add birthday dates to your contacts to see them here" : "Lägg till födelsedatum i dina kontakter för att se dem här",
+    "Recent" : "Senaste",
+    "Upcoming" : "Kommande",
+    "_Turns %n year old_::_Turns %n years old_" : ["Fyller %n år","Fyller %n år"],
+    "_turned %n year old_::_turned %n years old_" : ["fyllde %n år","fyllde %n år"],
+    "_turns %n year old_::_turns %n years old_" : ["fyller %n år","fyller %n år"],
+    "Failed to enable birthday calendar" : "Det gick inte att aktivera födelsedagskalendern"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
