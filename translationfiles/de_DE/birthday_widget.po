@@ -37,7 +37,7 @@ msgstr[0] "Wird %n Jahr alt"
 msgstr[1] "Wird %n Jahre alt"
 
 msgid "Upcoming"
-msgstr "Bevorstehend"
+msgstr "Bevorstehende"
 
 msgid "turns %n year old"
 msgid_plural "turns %n years old"
@@ -45,7 +45,7 @@ msgstr[0] "wird %n Jahr alt"
 msgstr[1] "wird %n Jahre alt"
 
 msgid "Recent"
-msgstr "Vergangen"
+msgstr "Vergangene"
 
 msgid "turned %n year old"
 msgid_plural "turned %n years old"
