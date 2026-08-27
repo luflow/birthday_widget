@@ -23,7 +23,7 @@ The widget reads birthday data from the auto-generated contact_birthdays calenda
 	<description lang="de"><![CDATA[Ein einfaches Dashboard-Widget, das Geburtstage aus deinen Nextcloud-Kontakten anzeigt. Verpasse nie wieder einen Geburtstag mit diesem eleganten Widget, das dich über die besonderen Tage deiner Kontakte informiert.
 
 **Funktionen:**
-- Zeigt Geburtstage gruppiert nach Heute, Bevorstehend und Vergangen
+- Zeigt Geburtstage gruppiert nach Heute, Bevorstehende und Vergangene
 - Zeigt das Alter jeder Person an (wenn das Geburtsjahr verfügbar ist)
 - Intelligente Datumsformatierung (Heute, Morgen, Gestern, Wochentage)
 - Hebt heutige Geburtstage besonders hervor
@@ -35,7 +35,7 @@ The widget reads birthday data from the auto-generated contact_birthdays calenda
 
 Das Widget liest Geburtstagsdaten aus dem automatisch generierten contact_birthdays-Kalender, den Nextcloud automatisch erstellt, wenn Kontakte Geburtstagsdaten haben.]]></description>
 	<screenshot small-thumbnail="https://raw.githubusercontent.com/luflow/birthday_widget/refs/heads/main/appinfo/screens/screen-small.png">https://raw.githubusercontent.com/luflow/birthday_widget/refs/heads/main/appinfo/screens/screen.png</screenshot>
-	<version>1.1.0</version>
+	<version>1.3.0</version>
 	<licence>AGPL-3.0-or-later</licence>
 	<author mail="florian@krautnerds.de" homepage="https://krautnerds.de">Florian Ludwig</author>
 	<namespace>BirthdayWidget</namespace>

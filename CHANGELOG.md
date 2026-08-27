@@ -2,6 +2,16 @@
 
 ## [Unreleased]
 
+## 1.3.0 – 2026-08-27
+
+### Added
+
+- Support Nextcloud 34 (Hub 26 Spring)
+
+### Changed
+
+- Update npm and composer dependencies
+
 ## 1.1.0 – 2026-02-17
 
 ### Fixed
