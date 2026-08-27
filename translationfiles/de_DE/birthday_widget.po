@@ -26,7 +26,7 @@ msgid "No birthdays"
 msgstr "Keine Geburtstage"
 
 msgid "Add birthday dates to your contacts to see them here"
-msgstr "Fuegen Sie Geburtstage zu Ihren Kontakten hinzu, um sie hier zu sehen"
+msgstr "Fügen Sie Geburtstage zu Ihren Kontakten hinzu, um sie hier zu sehen"
 
 msgid "Today"
 msgstr "Heute"
@@ -65,7 +65,7 @@ msgid "Days in the past"
 msgstr "Tage in der Vergangenheit"
 
 msgid "Show birthdays that occurred up to this many days ago"
-msgstr "Zeige Geburtstage, die bis zu dieser Anzahl Tage zurueckliegen"
+msgstr "Zeige Geburtstage, die bis zu dieser Anzahl Tage zurückliegen"
 
 msgid "Days in the future"
 msgstr "Tage in der Zukunft"
