@@ -23,7 +23,7 @@ OC.L10N.register(
     "Recent" : "Nedávne",
     "Upcoming" : "Nadchádzajúce",
     "_Turns %n year old_::_Turns %n years old_" : ["Má %n rok","Má %n rokov","Má %n rokov","Má %n rokov"],
-    "_turned %n year old_::_turned %n years old_" : ["mal %n rok","mal %n rokov","mal %n rokov","mal %n rokov"],
+    "_turned %n year old_::_turned %n years old_" : ["mal %n rok","mal %n roky","mal %n rokov","mal %n rokov"],
     "_turns %n year old_::_turns %n years old_" : ["má %n rok","má %n rokov","má %n rokov","má %n rokov"],
     "Failed to enable birthday calendar" : "Nepodarilo sa povoliť kalendár narodenín"
 },
