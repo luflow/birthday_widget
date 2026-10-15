@@ -1,13 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
+    "Birthdays" : "Дни рождения",
+    "Birthday widget" : "Виджет дней рождения",
+    "Birthday Widget" : "Виджет дней рождения",
+    "The birthday calendar is disabled globally by the administrator." : "Календарь дней рождения отключён администратором глобально.",
     "Enable" : "Включить",
-    "Settings saved" : "Настройки сохранены",
+    "Your personal birthday calendar is disabled." : "Личный календарь дней рождения отключён.",
+    "Settings saved" : "Параметры сохранены",
     "Failed to save settings" : "Не удалось сохранить параметры",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Настройте диапазон дат для показа дней рождения в виджете панели управления.",
+    "Days in the past" : "Дней в прошлом",
+    "Show birthdays that occurred up to this many days ago" : "Показывать дни рождения, прошедшие не более указанного количества дней назад",
+    "Days in the future" : "Дней в будущем",
+    "Show birthdays that will occur within this many days" : "Показывать дни рождения, которые наступят в пределах указанного количества дней",
     "Save" : "Сохранить",
     "Today" : "Сегодня",
     "Tomorrow" : "Завтра",
     "Yesterday" : "Вчера",
-    "Recent" : "Недавние"
+    "No birthdays" : "Нет дней рождения",
+    "Add birthday dates to your contacts to see them here" : "Добавьте даты дней рождения в контакты, чтобы они появились здесь",
+    "Recent" : "Недавние",
+    "Upcoming" : "Предстоящие",
+    "_Turns %n year old_::_Turns %n years old_" : ["Исполняется %n год","Исполняется %n года","Исполняется %n лет","Исполняется %n года"],
+    "_turned %n year old_::_turned %n years old_" : ["исполнился %n год","исполнилось %n года","исполнилось %n лет","исполнилось %n года"],
+    "_turns %n year old_::_turns %n years old_" : ["исполняется %n год","исполняется %n года","исполняется %n лет","исполняется %n года"],
+    "Failed to enable birthday calendar" : "Не удалось включить календарь дней рождения"
 },
 "nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);");
