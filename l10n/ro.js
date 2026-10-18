@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Enable" : "Activare",
     "Settings saved" : "Setările au fost salvate",
+    "Failed to save settings" : "Setările nu au putut fi salvate",
     "Save" : "Salvează",
     "Today" : "Azi",
     "Tomorrow" : "Mâine",
