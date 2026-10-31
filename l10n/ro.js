@@ -1,13 +1,30 @@
 OC.L10N.register(
     "birthday_widget",
     {
-    "Enable" : "Activare",
+    "Birthdays" : "Zile de naștere",
+    "Birthday widget" : "Widget zile de naștere",
+    "Birthday Widget" : "Widget zile de naștere",
+    "The birthday calendar is disabled globally by the administrator." : "Calendarul zilelor de naștere este dezactivat global de administrator.",
+    "Enable" : "Activează",
+    "Your personal birthday calendar is disabled." : "Calendarul tău personal al zilelor de naștere este dezactivat.",
     "Settings saved" : "Setările au fost salvate",
     "Failed to save settings" : "Setările nu au putut fi salvate",
+    "Configure the date range for displaying birthdays in the dashboard widget." : "Configurează intervalul de date pentru afișarea zilelor de naștere în widgetul de pe tabloul de bord.",
+    "Days in the past" : "Zile în trecut",
+    "Show birthdays that occurred up to this many days ago" : "Afișează zilele de naștere care au avut loc cu cel mult atâtea zile în urmă",
+    "Days in the future" : "Zile în viitor",
+    "Show birthdays that will occur within this many days" : "Afișează zilele de naștere care vor avea loc în următoarele atâtea zile",
     "Save" : "Salvează",
     "Today" : "Azi",
     "Tomorrow" : "Mâine",
     "Yesterday" : "Ieri",
-    "Recent" : "Recente"
+    "No birthdays" : "Nicio zi de naștere",
+    "Add birthday dates to your contacts to see them here" : "Adaugă datele zilelor de naștere la contactele tale pentru a le vedea aici",
+    "Recent" : "Recente",
+    "Upcoming" : "Urmează",
+    "_Turns %n year old_::_Turns %n years old_" : ["Împlinește %n an","Împlinește %n ani","Împlinește %n de ani"],
+    "_turned %n year old_::_turned %n years old_" : ["a împlinit %n an","a împlinit %n ani","a împlinit %n de ani"],
+    "_turns %n year old_::_turns %n years old_" : ["împlinește %n an","împlinește %n ani","împlinește %n de ani"],
+    "Failed to enable birthday calendar" : "Calendarul zilelor de naștere nu a putut fi activat"
 },
 "nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));");
