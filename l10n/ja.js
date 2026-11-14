@@ -7,6 +7,7 @@ OC.L10N.register(
     "Save" : "保存する",
     "Today" : "今日",
     "Tomorrow" : "明日",
+    "Yesterday" : "昨日",
     "Recent" : "最近"
 },
 "nplurals=1; plural=0;");
